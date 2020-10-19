@@ -1,0 +1,72 @@
+// Copied parts from https://github.com/KSP-RO/RP-0/blob/master/GameData/RP-0/Tree/ProcSizes.cfg and https://github.com/KSP-RO/ProceduralParts/blob/master/GameData/ProceduralParts/Parts/ZOtherMods/RealismOverhaul.cfg
+// *** Proc Fairings sizes
+@PROCFAIRINGS_MINDIAMETER
+{
+	start = 0.1
+}
+@PROCFAIRINGS_MAXDIAMETER
+{	
+	!advAerodynamics = DEL
+	!heavyAerodynamics = DEL
+	!experimentalAerodynamics = DEL
+	!engineering101 = DEL
+	!basicConstruction = DEL
+	!generalConstruction = DEL
+	!advConstruction = DEL
+	!specializedConstruction = DEL
+	!advMetalworks = DEL
+	%start = 50.0
+}
+@PROCROCKET_MINDIAMETER
+{
+	@start = 0.1
+}
+
+@PROCROCKET_MAXDIAMETER
+{
+	!aerospaceTech = DEL
+	!engineering101 = DEL
+	!basicConstruction = DEL
+	!generalConstruction = DEL
+	!advConstruction = DEL
+	!specializedConstruction = DEL
+	!advMetalworks = DEL
+	%start = 50.0
+}
+
+!PART[pf_tech_fairing*] {}
+!PART[pf_tech_rocket*] {}
+
+// *** Proc Parts sizes
+@PART[*]:HAS[@MODULE[ProceduralPart]]:AFTER[zLRTR] // :AFTER,BEFORE, Where does it need to go?
+{
+	@MODULE[ProceduralShape*],*
+	{
+		%techRequired = start
+	}
+	@TechRequired = start
+
+	@MODULE[ProceduralPart]
+    {
+        %diameterMin = 0.01
+        %diameterMax = Infinity
+        %lengthMin = 0.01
+        %lengthMax = Infinity
+        %volumeMin = 0
+        %volumeMax = Infinity
+    }
+}
+@PART[proceduralTankRealFuels]:AFTER[zLRTR]
+{
+    @TechHidden = False
+}
+@PART:HAS[@MODULE[ProceduralPart]]:AFTER[zLRTR]
+{
+    @MODULE[ProceduralPart]
+    {
+        !TECHLIMIT,* {}
+        !UPGRADES,* {}
+    }
+}
+
+// !PART[proceduralSRBRealFuels] {}
