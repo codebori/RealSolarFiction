@@ -7,7 +7,7 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/196996-real-world-sci-fi-m
 - [] SXT LV-405 Vanguard still has Liquid Fuel and Oxidizer for its additional RCS engine 
 - [] "Restock" Oscar B tank volumes are inconsistent with the stock one
 - [] Procedural Part Tanks are to big at the start and too small later on
-- [] TantaresSP Zircon RCS Series require Liquid Fuel and Oxidizer
+- [] TantaresSP Zircon RCS Series require Liquid Fuel and Oxidizer 
   
  
 ## To Do
