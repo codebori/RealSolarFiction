@@ -27,7 +27,7 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/196996-real-world-sci-fi-m
 
 ## Changelog
 
-- [x] 
+- [x] 31.10.2020: Replace Oxidizer with LqdOxygen in Fuel Cells db999402aebc87a303337b3e3f9dca50ae1a7a36
 - [x] 31.10.2020: Added CKAN modpack list to Github
 - [x] 31.10.2020: Created a Changelog
 
