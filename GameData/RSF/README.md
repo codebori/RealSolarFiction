@@ -155,6 +155,7 @@ Discord: https://discord.gg/kA6BQVD
 
 ## Changelog
 
+- [x] 31.10.2020: Removed size limits from Procedural Fuel tanks, needs testing.
 - [x] 31.10.2020: Replace Oxidizer with LqdOxygen in Fuel Cells https://github.com/codebori/RealSolarFiction/commit/db999402aebc87a303337b3e3f9dca50ae1a7a36
 - [x] 31.10.2020: Added CKAN modpack list to Github
 - [x] 31.10.2020: Created a Changelog
