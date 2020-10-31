@@ -14,28 +14,32 @@ I started with RSF+RF:
 ! Needs some patches 
 - Incompatible
 
-    Depends:
-        + Real Fuels
-            + RealFuels-Stock
-        + LRTR
-            + RSS
-            + Kerbal Construction Time
-        + Module Manager
-    Recommends:
-        + Kerbalism
-        ! Procedural Parts
-        ! SXT Continued
-    Suggests:
-        + Kerbal Engineer Redux
-        ! RealAntennas
-            + Gordon's RealAntennas patches
-    Compatible:
-        ! Airplane Plus 
-        + Ferram Aerospace Research Continued
-        + Kerbal Alarm Clock
-        + Kerbal Joint Reinforcement - Continued
-        Kerbal Planetary Base Systems
-    Currently testing:
+Depends:
++ Real Fuels
++ RealFuels-Stock
++ LRTR
++ RSS
++ Kerbal Construction Time
++ Module Manager
+
+Recommends:
++ Kerbalism
+! Procedural Parts
+! SXT Continued
+
+Suggests:
++ Kerbal Engineer Redux
+! RealAntennas
++ Gordon's RealAntennas patches
+
+Compatible:
+! Airplane Plus 
++ Ferram Aerospace Research Continued
++ Kerbal Alarm Clock
++ Kerbal Joint Reinforcement - Continued
+Kerbal Planetary Base Systems
+
+Currently testing:
         Advanced Fly-By-Wire
         Advanced Jet Engine
         AirlockPlus
@@ -106,15 +110,15 @@ I started with RSF+RF:
 
 Incompatible:
 
-    All:
-        - Crew R&R -> Overlaps with LRTR RP-1 functionality.
-        - Realism Overhaul -> Incompatible with/same functionality as LRTR.
-        - TAC-LS and Remote Tech -> Incompatible with/same functionality as Kerbalism.
-        - Hide Empty Tech Tree Nodes -> Incompatible with LRTR RP-1 functionality.
-        - Procedural Fairings for Everything -> Seems to be incompatible with most mods, in this case it seems to mess up the Tech Tree.
-        - Advanced Jet Engine -> Old, broken and seemingly no longer maintained.
-    RF:
-        - Mark IV Spaceplane System -> Incompatible with RF while OPT provides similar compatible parts so it is not worth the effort to write patches for Mark IV.
+All:
+- Crew R&R -> Overlaps with LRTR RP-1 functionality.
+- Realism Overhaul -> Incompatible with/same functionality as LRTR.
+- TAC-LS and Remote Tech -> Incompatible with/same functionality as Kerbalism.
+- Hide Empty Tech Tree Nodes -> Incompatible with LRTR RP-1 functionality.
+- Procedural Fairings for Everything -> Seems to be incompatible with most mods, in this case it seems to mess up the Tech Tree.
+- Advanced Jet Engine -> Old, broken and seemingly no longer maintained.
+RF:
+- Mark IV Spaceplane System -> Incompatible with RF while OPT provides similar compatible parts so it is not worth the effort to write patches for Mark IV.
 ```
 
 I don't want to do this alone and just for myself. So who's interested in playing (more or less) realistic career sci-fi KSP? And who wants to help put this together?
