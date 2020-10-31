@@ -1,0 +1,492 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "RSF",
+    "name": "RSF",
+    "abstract": "a real world semi realistic sci-fi mod collection",
+    "version": "2020.10.31.02",
+    "license": [
+        "unrestricted"
+    ],
+    "depends": [
+        {
+            "name": "FreedomTex"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TalisarParts"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "SmartParts"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "RestockRigidLegs"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "SolverEngines"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "RealFuels-Stock"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "VensStylePPTextures"
+        },
+        {
+            "name": "ResonantOrbitCalculator"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RCSBuildAid"
+        },
+        {
+            "name": "QuickSearch"
+        },
+        {
+            "name": "PortraitStats"
+        },
+        {
+            "name": "CommunityTraitIcons"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "NoCrewRequirementContinued"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "NearFuturePropulsion-XenonHETs"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "MechJeb2-dev"
+        },
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "KSPRescuePodFix"
+        },
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "KerbalStats"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "MoarFEConfigs"
+        },
+        {
+            "name": "FilterExtensionsDefaultConfig"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "KerbalAtomics-NTRModSupport"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "HyperEdit"
+        },
+        {
+            "name": "RealHeat"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "KXAPI"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "UniversalStorage2"
+        },
+        {
+            "name": "CritterCrawler"
+        },
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "CryoEngines-NFAero"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CraftManager"
+        },
+        {
+            "name": "ContractParser"
+        },
+        {
+            "name": "ProgressParser"
+        },
+        {
+            "name": "MainSailorTextures-Complete"
+        },
+        {
+            "name": "Kopernicus-BE"
+        },
+        {
+            "name": "Olympic1ARPIcons"
+        },
+        {
+            "name": "AlternateResourcePanel"
+        },
+        {
+            "name": "TriggerAu-Flags"
+        },
+        {
+            "name": "ChattererExtended"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "CapCom"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "AutoAction"
+        },
+        {
+            "name": "MainSailorTextures-Essentials"
+        },
+        {
+            "name": "AirlockPlus"
+        },
+        {
+            "name": "ProceduralParts-Textures-SCCKSCS"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        },
+        {
+            "name": "RSSDateTimeFormatter"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "RSSTextures4096"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "LessRealThanReal"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "AdvancedFlyByWire-Linux"
+        },
+        {
+            "name": "SXTContinued"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "RetractableLiftingSurface"
+        },
+        {
+            "name": "DistantObject-RealSolarSystem"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "ProceduralParts-Textures-SaturnNova"
+        },
+        {
+            "name": "OPTReconfig"
+        },
+        {
+            "name": "OPTSpacePlaneMain"
+        },
+        {
+            "name": "OPTSpacePlaneParts"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "NotSoSimpleConstruction"
+        },
+        {
+            "name": "SimpleConstruction"
+        },
+        {
+            "name": "InlineBallutes"
+        },
+        {
+            "name": "KerbalKrashSystem"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "OSEWorkShopReworked"
+        },
+        {
+            "name": "PartInfo"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "KerbalAircraftExpansion"
+        },
+        {
+            "name": "WorldStabilizer"
+        },
+        {
+            "name": "KSP-Recall"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "ThrottleLimitExtended"
+        },
+        {
+            "name": "Kronometer"
+        },
+        {
+            "name": "LessRealKerbalism"
+        },
+        {
+            "name": "RealAntennas"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "VenStockRevamp-NewParts"
+        },
+        {
+            "name": "VenStockRevamp-Core"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "NavHudRenewed"
+        },
+        {
+            "name": "BetterBurnTime"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "NewTantaresLV"
+        },
+        {
+            "name": "PersistentRotation"
+        },
+        {
+            "name": "TantaresSP"
+        },
+        {
+            "name": "NewTantares"
+        },
+        {
+            "name": "PreciseEditor"
+        },
+        {
+            "name": "PreciseNode"
+        },
+        {
+            "name": "TransferWindowPlanner"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage"
+}
