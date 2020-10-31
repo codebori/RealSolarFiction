@@ -1,5 +1,126 @@
 https://forum.kerbalspaceprogram.com/index.php?/topic/196996-real-world-sci-fi-mod-collection/
 
+The goal is to create a real world semi realistic sci-fi mod collection with the focus on (but not limited to) achieving off world self sufficient bases.
+
+It will probably be in the form of a "mod" (Real Solar Fiction) containing patches to glue everything together, based on my old project SpaceBori’s resource patches.
+
+I am not a developer, nor a graphic designer and I don't want to do work that has already been done. So the project should not be so realistic that it becomes too complex.
+
+For now we'll have 2 forks. One depending on Real Fuels and the other on Rational Resources. Both combinations will need to be tested and everything can still change.
+
+I started with RSF+RF:
+```diff
++ Compatible 
+! Needs some patches 
+- Incompatible
+
+    Depends:
+        + Real Fuels
+            + RealFuels-Stock
+        + LRTR
+            + RSS
+            + Kerbal Construction Time
+        + Module Manager
+    Recommends:
+        + Kerbalism
+        ! Procedural Parts
+        ! SXT Continued
+    Suggests:
+        + Kerbal Engineer Redux
+        ! RealAntennas
+            + Gordon's RealAntennas patches
+    Compatible:
+        ! Airplane Plus 
+        + Ferram Aerospace Research Continued
+        + Kerbal Alarm Clock
+        + Kerbal Joint Reinforcement - Continued
+        Kerbal Planetary Base Systems
+    Currently testing:
+        Advanced Fly-By-Wire
+        Advanced Jet Engine
+        AirlockPlus
+        Auto Actions
+        B9 Aerospace Procedural Wings - Fork
+        BetterBurnTime
+        blackheart612's Procedural Part Textures
+        CapCom - Mission Control On The Go
+        Completely Non-Aggressive Rocketry (V-2)
+        Cryo Tanks
+        Cryogenic Engines
+        DMagic Orbital Science -> Incompatible with LRTR's Kerbalism Config
+        Hangar Extender
+        KAX
+        Kerbal Atomics
+        Kerbal Attachment System
+        Kerbal Inventory System
+        Kerbal Stats
+        Kerbal Planetary Base Systems
+        KRASH
+        KSP AVC
+        KSP Rescue Pod Fix
+        KSP Resonant Orbit Calculator
+        Mark IV Spaceplane System
+        MechJeb 2
+        Mk2 Stockalike Expansion
+        Near Future Aeronautics
+        Near Future Construction
+        Near Future Exploration
+        Near Future Propulsion
+        Near Future Solar
+        Near Future Spacecraft
+        Not So SimpleConstruction (NSSC)
+        OhScrap!
+        OPT
+        OSE Workshop
+        Patch Manager
+        Portrait Stats
+        Procedural Fairings
+        QuickSearch
+        RCS Build Aid Continued
+        Real Plume
+        RealChute
+        RealHeat
+        ReStock
+        ReStock Extra - Rigid Legs
+        ReStock+
+        Retracting/vectoring engines, Critter Crawler
+        RSS DateTime Formatter
+        SCANsat
+        ScrapYard
+        Ship Manifest
+        Smart Parts
+        StageRecovery
+        Stockalike Station Parts Expansion Redux
+        Talisar Parts
+        Tantares
+        Universal Storage II
+    To be tested:
+        Airline Kuisine
+        BARIS
+        Duna Direct
+        Extraplanetary Launchpads
+        Global Construction
+        Pathfinder
+        Rational Resources
+        SMURFF
+
+Incompatible:
+
+    All:
+        - Crew R&R -> Overlaps with LRTR RP-1 functionality.
+        - Realism Overhaul -> Incompatible with/same functionality as LRTR.
+        - TAC-LS and Remote Tech -> Incompatible with/same functionality as Kerbalism.
+        - Hide Empty Tech Tree Nodes -> Incompatible with LRTR RP-1 functionality.
+        - Procedural Fairings for Everything -> Seems to be incompatible with most mods, in this case it seems to mess up the Tech Tree.
+        - Advanced Jet Engine -> Old, broken and seemingly no longer maintained.
+    RF:
+        - Mark IV Spaceplane System -> Incompatible with RF while OPT provides similar compatible parts so it is not worth the effort to write patches for Mark IV.
+```
+
+I don't want to do this alone and just for myself. So who's interested in playing (more or less) realistic career sci-fi KSP? And who wants to help put this together?
+
+Discord: https://discord.gg/kA6BQVD 
+
 ## Known Issues:
 
 - [] "DMagic Orbital Science" is incompatible with LRTR's Kerbalism Config  
