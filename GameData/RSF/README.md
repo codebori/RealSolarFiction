@@ -7,6 +7,7 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/196996-real-world-sci-fi-m
 - [] SXT LV-405 Vanguard still has Liquid Fuel and Oxidizer for its additional RCS engine 
 - [] "Restock" Oscar B tank volumes are inconsistent with the stock one
 - [] Procedural Part Tanks are to big at the start and too small later on
+- [] TantaresSP Zircon RCS Series require Liquid Fuel and Oxidizer 
   
  
 ## To Do
@@ -23,6 +24,7 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/196996-real-world-sci-fi-m
 - [] Fix Oscar B tank volumes: https://forum.kerbalspaceprogram.com/index.php?/topic/196996-real-world-sci-fi-mod-collection/&do=findComment&comment=3862324
 - [] Make sure there are ullage motors available early in the tech tree
 - [] Remove the Size restrictions from PP tanks, leave only the volume related upgrade path
+- [] Fix TantaresSP Zircon RCS Series require Liquid Fuel and Oxidizer and submit it to RealFuels-Stock
 
 
 ## Changelog
