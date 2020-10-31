@@ -6,6 +6,7 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/196996-real-world-sci-fi-m
 - [] "OhScrap!" overlaps with Kerbalism functionality
 - [] SXT LV-405 Vanguard still has Liquid Fuel and Oxidizer for its additional RCS engine 
 - [] "Restock" Oscar B tank volumes are inconsistent with the stock one
+- [] Procedural Part Tanks are to big at the start and too small later on
   
  
 ## To Do
@@ -21,6 +22,7 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/196996-real-world-sci-fi-m
 - [] [SXT LV-405 Vanguard](https://github.com/linuxgurugamer/SXTContinued/blob/master/GameData/SXT/Parts/Rocketry/Engine/Vanguard/X405.cfg) still has Liquid Fuel and Oxidizer for its additional RCS engine -> write patch and submit it to RealFuels-Stock 
 - [] Fix Oscar B tank volumes: https://forum.kerbalspaceprogram.com/index.php?/topic/196996-real-world-sci-fi-mod-collection/&do=findComment&comment=3862324
 - [] Make sure there are ullage motors available early in the tech tree
+- [] Remove the Size restrictions from PP tanks, leave only the volume related upgrade path
 
 
 ## Changelog
