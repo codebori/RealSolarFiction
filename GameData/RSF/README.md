@@ -15,29 +15,30 @@ I started with RSF+RF:
 - Incompatible
 
 Depends:
-+ Real Fuels
-+ RealFuels-Stock
-+ LRTR
-+ RSS
-+ Kerbal Construction Time
-+ Module Manager
++ Real Fuels (https://forum.kerbalspaceprogram.com/index.php?showtopic=58236)
++ RealFuels-Stock ()
++ LRTR ()
++ RSS ()
++ Kerbal Construction Time ()
++ Module Manager ()
 
 Recommends:
-+ Kerbalism
-! Procedural Parts
-! SXT Continued
++ Kerbalism ()
++ Kerbalism - LRTR Config (https://forum.kerbalspaceprogram.com/index.php?/topic/189978-*)
+! Procedural Parts ()
+! SXT Continued ()
 
 Suggests:
-+ Kerbal Engineer Redux
-! RealAntennas
-+ Gordon's RealAntennas patches
++ Kerbal Engineer Redux ()
+! RealAntennas ()
++ Gordon's RealAntennas patches ()
 
 Compatible:
-! Airplane Plus 
-+ Ferram Aerospace Research Continued
-+ Kerbal Alarm Clock
-+ Kerbal Joint Reinforcement - Continued
-Kerbal Planetary Base Systems
+! Airplane Plus ()
++ Ferram Aerospace Research Continued ()
++ Kerbal Alarm Clock ()
++ Kerbal Joint Reinforcement - Continued ()
++ WasdEditorCameraContinued (http://forum.kerbalspaceprogram.com/index.php?/topic/121386-*)
 
 Currently testing:
         Advanced Fly-By-Wire
@@ -155,8 +156,9 @@ Discord: https://discord.gg/kA6BQVD
 
 ## Changelog
 
-- [x] 31.10.2020: Removed size limits from Procedural Fuel tanks, needs testing.
-- [x] 31.10.2020: Replace Oxidizer with LqdOxygen in Fuel Cells https://github.com/codebori/RealSolarFiction/commit/db999402aebc87a303337b3e3f9dca50ae1a7a36
+- [x] 31.10.2020: B9 Wings Tech Tree patch by Sirata89: https://github.com/codebori/RealSolarFiction/commit/aa4443fc79d3f54f85e24adc63e2887291c68260
+- [x] 31.10.2020: Changed size limits for Procedural Fuel tanks (multiple commits) 
+- [x] 31.10.2020: Replace Oxidizer with LqdOxygen in Fuel Cells: https://github.com/codebori/RealSolarFiction/commit/db999402aebc87a303337b3e3f9dca50ae1a7a36
 - [x] 31.10.2020: Added CKAN modpack list to Github
 - [x] 31.10.2020: Created a Changelog
 
