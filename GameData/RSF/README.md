@@ -135,7 +135,7 @@ Discord: https://discord.gg/kA6BQVD
 - [] "Restock" Oscar B tank volumes are inconsistent with the stock one
 - [] Procedural Part Tanks are to big at the start and too small later on
 - [] TantaresSP Zircon RCS Series require Liquid Fuel and Oxidizer 
-  
+- [] Some Tantares engines have very high ISP  
  
 ## To Do
  
@@ -152,7 +152,7 @@ Discord: https://discord.gg/kA6BQVD
 - [] Make sure there are ullage motors available early in the tech tree
 - [] Remove the Size restrictions from PP tanks, leave only the volume related upgrade path
 - [] Fix TantaresSP Zircon RCS Series require Liquid Fuel and Oxidizer and submit it to RealFuels-Stock
-
+- [] Check Tantares engines ISP
 
 ## Changelog
 
