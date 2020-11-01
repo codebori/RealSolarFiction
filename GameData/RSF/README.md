@@ -139,6 +139,8 @@ Discord: https://discord.gg/kA6BQVD
 - [] Procedural Part Tanks are to big at the start and too small later on
 - [] TantaresSP Zircon RCS Series require Liquid Fuel and Oxidizer 
 - [] Some Tantares engines have very high ISP  
+- [] Stock Sentinel Infrared Telescope incompatible with Kerbalism
+- [] Tantares science stuff incompatible with Kerbalism
  
 ## To Do
  
@@ -147,7 +149,7 @@ Discord: https://discord.gg/kA6BQVD
 		- [] Kerbalism -> Kerbalism LRTR Config
 	- [] Configuration:
 		- [] Turn off Real Fuels or Kerbalism ignition limit
-- [] Make "DMagic Orbital Science" compatible with LRTR's Kerbalism Config  
+- [] Make "DMagic Orbital Science", stock "Sentinel Infrared Telescope" and "Tantares" science stuff compatible with LRTR's Kerbalism Config  
 - [] Suggest more configuration options for "OhScrap!" to turn of some functionality
 - [] Move Airplane parts (Stock and from mods) around in the Tech Tree (mainly earlier)
 - [] [SXT LV-405 Vanguard](https://github.com/linuxgurugamer/SXTContinued/blob/master/GameData/SXT/Parts/Rocketry/Engine/Vanguard/X405.cfg) still has Liquid Fuel and Oxidizer for its additional RCS engine -> write patch and submit it to RealFuels-Stock 
@@ -156,6 +158,7 @@ Discord: https://discord.gg/kA6BQVD
 - [] Remove the Size restrictions from PP tanks, leave only the volume related upgrade path
 - [] Fix TantaresSP Zircon RCS Series require Liquid Fuel and Oxidizer and submit it to RealFuels-Stock
 - [] Check Tantares engines ISP
+
 
 ## Changelog
 
