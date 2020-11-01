@@ -8,11 +8,12 @@ I am not a developer, nor a graphic designer and I don't want to do work that ha
 
 For now we'll have 2 forks. One depending on Real Fuels and the other on Rational Resources. Both combinations will need to be tested and everything can still change.
 
-I started with RSF+RF:
+We are starting with RSF+RF:
 ```diff
 + Compatible 
 ! Needs some patches 
 - Incompatible
+# Testing
 
 Depends:
 + Real Fuels (https://forum.kerbalspaceprogram.com/index.php?showtopic=58236)
@@ -26,7 +27,9 @@ Recommends:
 + Kerbalism ()
 + Kerbalism - LRTR Config (https://forum.kerbalspaceprogram.com/index.php?/topic/189978-*)
 ! Procedural Parts ()
+! Completely Non-Aggressive Rocketry (V-2) (https://forum.kerbalspaceprogram.com/index.php?/topic/188554-19-completely-non-aggressive-rocketry-v2-rocket-add-on/)
 ! SXT Continued ()
+# Taerobee (https://forum.kerbalspaceprogram.com/index.php?/topic/119858-14x-taerobee-stockalike-x-1-and-more-27012017/)
 
 Suggests:
 + Kerbal Engineer Redux ()
@@ -38,9 +41,10 @@ Compatible:
 + Ferram Aerospace Research Continued ()
 + Kerbal Alarm Clock ()
 + Kerbal Joint Reinforcement - Continued ()
+! Tantares (https://forum.kerbalspaceprogram.com/index.php?/topic/73686-110x-tantares-stockalike-soyuz-and-mir-23201112020/)
 + WasdEditorCameraContinued (http://forum.kerbalspaceprogram.com/index.php?/topic/121386-*)
 
-Currently testing:
+# Currently testing:
         Advanced Fly-By-Wire
         Advanced Jet Engine
         AirlockPlus
@@ -49,7 +53,6 @@ Currently testing:
         BetterBurnTime
         blackheart612's Procedural Part Textures
         CapCom - Mission Control On The Go
-        Completely Non-Aggressive Rocketry (V-2)
         Cryo Tanks
         Cryogenic Engines
         DMagic Orbital Science -> Incompatible with LRTR's Kerbalism Config
@@ -97,7 +100,6 @@ Currently testing:
         StageRecovery
         Stockalike Station Parts Expansion Redux
         Talisar Parts
-        Tantares
         Universal Storage II
 
 To be tested:
@@ -109,6 +111,7 @@ To be tested:
         Pathfinder
         Rational Resources
         SMURFF
+	KSPIE
 
 Incompatible:
 
