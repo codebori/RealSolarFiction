@@ -158,7 +158,7 @@ Discord: https://discord.gg/kA6BQVD
 - [] Remove the Size restrictions from PP tanks, leave only the volume related upgrade path
 - [] Fix TantaresSP Zircon RCS Series require Liquid Fuel and Oxidizer and submit it to RealFuels-Stock
 - [] Check Tantares engines ISP
-
+- [] Fine-tune KCT formulas
 
 ## Changelog
 
