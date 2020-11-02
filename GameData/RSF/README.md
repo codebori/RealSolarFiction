@@ -52,7 +52,9 @@ Compatible:
         B9 Aerospace Procedural Wings - Fork
         BetterBurnTime
         blackheart612's Procedural Part Textures
+	Bon Voyage (https://forum.kerbalspaceprogram.com/index.php?/topic/172447-ksp-191-1101-bon-voyage-111-120-2020-08-12/)
         CapCom - Mission Control On The Go
+	Capsule Corp. KKP - Kerbal Kolonization Program (https://forum.kerbalspaceprogram.com/index.php?/topic/197869-110x-capsule-corp-kkp-kerbal-kolonization-program/)
         Cryo Tanks
         Cryogenic Engines
         DMagic Orbital Science -> Incompatible with LRTR's Kerbalism Config
